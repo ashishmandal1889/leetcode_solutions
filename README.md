@@ -7,6 +7,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
@@ -28,10 +29,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
