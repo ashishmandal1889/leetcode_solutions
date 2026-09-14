@@ -9,6 +9,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0001-two-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
+| [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
@@ -54,4 +55,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0009-palindrome-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
