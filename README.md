@@ -8,6 +8,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0001-two-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
@@ -36,11 +37,13 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Quicksort
