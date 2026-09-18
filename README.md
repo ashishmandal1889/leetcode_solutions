@@ -79,4 +79,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0231-power-of-two) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
