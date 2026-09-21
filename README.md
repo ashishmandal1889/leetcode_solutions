@@ -40,6 +40,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
