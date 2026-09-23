@@ -25,6 +25,7 @@
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
+
 <ul>
 	<li><code>n == height.length</code></li>
 	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
