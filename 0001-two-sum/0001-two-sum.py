@@ -8,5 +8,5 @@ class Solution:
                 return [seen[need],i]
             
             seen[num] = i
-
+    
             
