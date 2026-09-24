@@ -11,6 +11,7 @@ class Solution {
             // 1. Remove indices outside the current window
             if (!deque.isEmpty() && deque.peekFirst() <= i - k) {
                 deque.pollFirst();
+                
             }
             
             // 2. Maintain decreasing order in deque
