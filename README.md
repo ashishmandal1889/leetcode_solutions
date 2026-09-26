@@ -21,6 +21,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -95,6 +97,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
