@@ -26,6 +26,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0001-two-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
