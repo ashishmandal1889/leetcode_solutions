@@ -28,6 +28,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0076-minimum-window-substring](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
@@ -145,4 +148,5 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
