@@ -17,6 +17,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -35,6 +36,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -66,6 +68,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -149,4 +153,9 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
