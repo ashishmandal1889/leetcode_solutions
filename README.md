@@ -12,6 +12,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -88,6 +89,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
