@@ -16,6 +16,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -167,5 +168,6 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
