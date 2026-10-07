@@ -153,6 +153,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
