@@ -23,6 +23,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -37,6 +38,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
