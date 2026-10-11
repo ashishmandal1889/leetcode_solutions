@@ -20,6 +20,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -37,6 +38,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0202-happy-number) |
+| [0525-contiguous-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -62,6 +64,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0724-find-pivot-index) |
