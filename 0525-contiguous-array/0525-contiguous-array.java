@@ -3,29 +3,26 @@ class Solution {
         int zero = 0;
         int one = 0;
         int n = nums.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        // Base case: a difference of 0 happens before index 0 (at index -1)
-        map.put(0, -1);
-        
+
         int ans = 0;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.put(0,-1);
+        for(int i = 0;i<n;i++){
+            if(nums[i]==0){
                 zero++;
-            } else {
+            }else{
                 one++;
             }
-            
             int diff = zero - one;
-            
-            // If we've seen this exact difference before, it means 
-            // the subarray between that previous index and i has equal 0s and 1s
-            if (map.containsKey(diff)) {
-                ans = Math.max(ans, i - map.get(diff));
-            } else {
-                // Store the first time we see this difference to maximize length
-                map.put(diff, i);
+            if(map.containsKey(diff)){
+                ans = Math.max(ans,i-map.get(diff));
+            }else{
+                map.put(diff,i);
             }
+            
         }
         return ans;
+        
+    
     }
 }
