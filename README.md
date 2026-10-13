@@ -14,6 +14,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0027-remove-element](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -89,11 +90,13 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
