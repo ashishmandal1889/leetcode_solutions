@@ -150,6 +150,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0076-minimum-window-substring](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
