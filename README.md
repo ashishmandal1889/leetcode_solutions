@@ -28,6 +28,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0986-interval-list-intersections) |
@@ -209,12 +210,14 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0020-valid-parentheses](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
