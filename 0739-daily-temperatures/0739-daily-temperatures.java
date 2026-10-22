@@ -9,6 +9,8 @@ class Solution {
            } 
            if(!stack.isEmpty()){
             result[i] = stack.peek() - i;
+           }else{
+            result[i]=0;
            }
            stack.push(i);
         }
