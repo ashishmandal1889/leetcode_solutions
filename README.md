@@ -139,6 +139,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0231-power-of-two) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -214,12 +216,14 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
