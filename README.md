@@ -50,6 +50,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0383-ransom-note](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
 |  |
@@ -239,4 +241,5 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | ------- |
 | [0383-ransom-note](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
