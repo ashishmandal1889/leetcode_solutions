@@ -12,32 +12,19 @@
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
 
-        // Dummy node handles the case when left = 1
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        // Move prev to the node before left
-        ListNode prev = dummy;
-
-        for (int i = 1; i < left; i++) {
-            prev = prev.next;
+     ListNode dummy = new ListNode(0);
+     dummy.next = head;
+     ListNode prev = dummy;
+     for(int i= 1;i<left;i++){
+        prev = prev.next;
         }
-
-        // Current points to the first node to reverse
         ListNode curr = prev.next;
-
-        // Reverse the sublist
-        for (int i = 0; i < right - left; i++) {
-
+        for(int j= 0;j<right-left;j++){
             ListNode nextNode = curr.next;
-
             curr.next = nextNode.next;
-
             nextNode.next = prev.next;
-
             prev.next = nextNode;
         }
-
         return dummy.next;
     }
 }
