@@ -141,6 +141,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0231-power-of-two) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -190,6 +191,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
