@@ -26,6 +26,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0503-next-greater-element-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -58,6 +59,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
