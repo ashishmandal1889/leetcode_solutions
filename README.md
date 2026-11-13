@@ -12,6 +12,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0015-3sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
