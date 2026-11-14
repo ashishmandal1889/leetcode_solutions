@@ -34,6 +34,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0724-find-pivot-index](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0986-interval-list-intersections) |
@@ -69,6 +70,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0704-binary-search](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
