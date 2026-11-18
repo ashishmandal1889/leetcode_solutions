@@ -19,6 +19,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -142,6 +144,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
