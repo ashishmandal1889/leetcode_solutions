@@ -28,6 +28,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0209-minimum-size-subarray-sum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -122,6 +124,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0056-merge-intervals](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 | [0054-spiral-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of my LeetCode solutions covering Data Structures and Algorithms, o
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ashishmandal1889/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
