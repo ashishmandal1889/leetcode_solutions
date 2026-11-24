@@ -1,0 +1,33 @@
+class Solution:
+    def kthSmallest(self, matrix: list[list[int]], k: int) -> int:
+        n = len(matrix)
+        m = len(matrix[0])
+        low = matrix[0][0]
+        high = matrix[n - 1][m - 1]
+        res = -1
+
+        while low <= high:
+            guess = (low + high) // 2
+            ans = self._count_less_or_equal(matrix, n, m, guess)
+
+            if ans >= k:
+                res = guess
+                high = guess - 1
+            else:
+                low = guess + 1
+
+        return res
+
+    def _count_less_or_equal(self, matrix: list[list[int]], n: int, m: int, guess: int) -> int:
+        row = n - 1
+        col = 0
+        count = 0
+
+        while row >= 0 and col < m:
+            if matrix[row][col] <= guess:
+                count += row + 1
+                col += 1
+            else:
+                row -= 1
+
+        return count
